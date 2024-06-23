@@ -22,6 +22,14 @@ public class OperatorsInJava {
 			System.out.println("Numbers are not equal");
 		}
 
+		if ((number1 == 10) && (number2 == 20)) {
+			System.out.println("This is conditional AND operator");
+		}
+
+		if ((number1 == 10) || (number2 == 20)) {
+			System.out.println("This is conditional OR operator");
+		}
+
 		System.out.println(bool);
 		System.out.println(number1 + number2);
 		System.out.println(number1 + " " + str);
