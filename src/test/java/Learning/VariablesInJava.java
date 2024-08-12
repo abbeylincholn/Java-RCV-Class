@@ -2,7 +2,7 @@ package Learning;
 
 public class VariablesInJava {
 
-	int j = 20; // instance variable
+	int j = 20; // instance variable 
 
 	public static void main(String[] args) {
 
