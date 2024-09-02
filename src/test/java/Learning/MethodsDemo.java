@@ -6,7 +6,7 @@ public class MethodsDemo {
 		// you cant access the login in main method because it is not static void methods but can do that creating object of the class. Md.dologin
 		//doLogin();
 
-		MethodsDemo md = new MethodsDemo();
+		MethodsDemo md = new MethodsDemo(); // object of the class
 		md.doLogin();
 		md.doLogin();
 		md.doLogin();
