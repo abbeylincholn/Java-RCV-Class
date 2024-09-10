@@ -1,7 +1,7 @@
-package com.rcv.pkg3;
+package AccessesModifiers.rcv.pkg3;
 
-import com.rcv.pkg1.ClassA1;
-import com.rcv.pkg1.ClassA2;
+import AccessesModifiers.rcv.pkg1.ClassA1;
+import AccessesModifiers.rcv.pkg1.ClassA2;
 
 public class ClassC1 {
 

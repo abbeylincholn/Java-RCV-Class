@@ -1,7 +1,7 @@
-package com.rcv.pkg2;
+package AccessesModifiers.rcv.pkg2;
 
-import com.rcv.pkg1.ClassA1;
-import com.rcv.pkg1.ClassA2;
+import AccessesModifiers.rcv.pkg1.ClassA1;
+import AccessesModifiers.rcv.pkg1.ClassA2;
 
 public class ClassB1 extends ClassA1 { // ClassB1 inheriting ClassA1 to access protected 
 

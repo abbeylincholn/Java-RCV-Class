@@ -1,4 +1,4 @@
-package com.rcv.pkg1;
+package AccessesModifiers.rcv.pkg1;
 
 public class ClassA2 {
 
