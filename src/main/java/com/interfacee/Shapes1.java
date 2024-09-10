@@ -1,4 +1,4 @@
-package Interface_abstract;
+package com.interfacee;
 
 public interface Shapes1 {
 
