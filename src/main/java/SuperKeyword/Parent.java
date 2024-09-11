@@ -3,7 +3,7 @@ package SuperKeyword;
 public class Parent {
 
 	public Parent() {
-		System.out.println("Parent constructor");
+		System.out.println("No argument constructor");
 	}
 
 	public Parent(int i) {

@@ -4,7 +4,7 @@ public class Child extends Parent {
 
 	public Child() {
 		//super();
-		super(3);
+		super(5);
 
 	}
 
