@@ -16,7 +16,7 @@ public class WriteDataDemo {
 		//OR THIS WAY
 
 		//if you want to do file input stream
-		// true: is used to add data to same file with different times and date
+		// true: is used to append, that is to add data to same file with different times and date
 		FileOutputStream fis = new FileOutputStream(
 				System.getProperty("user.dir") + "\\src\\main\\java\\Read\\properties\\TestData2.properties", true); // hardcode the directory // change file name to add new file to the properties
 
