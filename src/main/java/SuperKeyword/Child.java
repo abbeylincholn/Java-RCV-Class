@@ -21,7 +21,7 @@ public class Child extends Parent {
 		System.out.println(empName);
 		System.out.println(empNo);
 
-		//		System.out.println(super.empName);
+		// 		System.out.println(super.empName);
 		//		System.out.println(super.empNo);
 
 		//super.getData();
